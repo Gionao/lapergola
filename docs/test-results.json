@@ -1,0 +1,27 @@
+{
+  "results": [
+    "Giorno iniziale, titolo e navigazione nascosti",
+    "Tramonto prima della hero",
+    "Scena serale prima dei testi",
+    "Ritorno alla scena giorno",
+    "Salto e focus al titolo",
+    "Navigazione, link, nessun overflow a 320px",
+    "Navigazione, link, nessun overflow a 375px",
+    "Navigazione, link, nessun overflow a 390px",
+    "Navigazione, link, nessun overflow a 768px",
+    "Navigazione, link, nessun overflow a 1024px",
+    "Navigazione, link, nessun overflow a 1440px",
+    "Navigazione, link, nessun overflow a 1920px",
+    "Menu mobile",
+    "Chiusura menu con Esc",
+    "Lightbox aperta",
+    "Lightbox, immagine successiva",
+    "Lightbox, focus ripristinato",
+    "Reduced motion",
+    "Apertura diretta file HTML",
+    "Introduzione da file locale",
+    "Fallback senza JavaScript",
+    "Nessun errore JavaScript"
+  ],
+  "errors": []
+}

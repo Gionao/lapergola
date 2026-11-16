@@ -1,0 +1,18 @@
+/* La Pergola — Tradizione 2.0 | Verde foglia + crema */
+:root {
+  --brand-foglia: #597843;
+  --brand-crema: #F6F0E5;
+  --brand-legno: #926F4E;
+  --brand-viola: #672A83;
+  --brand-primario: var(--brand-foglia);
+  --brand-secondario: var(--brand-crema);
+  --brand-sfondo: var(--brand-crema);
+  --brand-testo: #405932;
+  --brand-on-primary: #FFFFFF;
+  --brand-hover: #405932;
+  --brand-dettaglio: var(--brand-legno);
+  --brand-accento: var(--brand-viola);
+  --font-heading: "Playball", Georgia, serif;
+  --font-body: "Merriweather", Georgia, serif;
+  --font-ui: Arial, sans-serif;
+}
